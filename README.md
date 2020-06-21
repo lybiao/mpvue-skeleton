@@ -37,9 +37,14 @@ node index.js
 
 ## 角色账号
 
+```
+手机号：
+
 //收银台： 18000000001: 'api/checkout/login',
 //管理员： 18000000002: 'api/manager/login',
 //部  长： 18000000003: 'api/minister/login',
 //前台：   18000000004: 'api/reception/login'
 
 验证码： 任意输入即可
+
+```
