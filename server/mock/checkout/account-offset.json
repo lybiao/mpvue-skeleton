@@ -1,0 +1,20 @@
+{
+    "method": "post",
+    "url": "/api/account/offset",
+    "data": {
+        "code": 0,
+        "message": "成功",
+        "data": {
+            "log": {
+                "offset_wealth": 5000,
+                "wealth": 6000,
+                "remark": "充值",
+                "transaction_id": "2019121235362693",
+                "create_time": 1576115362693,
+                "phone": "15700000017",
+                "card_no": "0017"
+            }
+        },
+        "success": 1
+    }
+}

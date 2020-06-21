@@ -1,0 +1,25 @@
+{
+    "method": "post",
+    "url": "/api/admin/manage/list",
+    "data": {
+        "code": 0,
+        "message": "成功",
+        "data": {
+            "list": [
+                {
+                    "id": "d4b3a96a-0aa5-496f-965e-943ab8507d38",
+                    "name": "前台",
+                    "phone": "18000000004",
+                    "role": "前台"
+                },
+                {
+                    "id": "be88f2f5-73f7-4157-a203-33bae4495ee9",
+                    "name": "收银台",
+                    "phone": "18000000001",
+                    "role": "收银台"
+                }
+            ]
+        },
+        "success": 1
+    }
+}

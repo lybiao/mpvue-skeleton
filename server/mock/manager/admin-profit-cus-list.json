@@ -1,0 +1,49 @@
+{
+    "method": "post",
+    "url": "/api/admin/profit/cus-list",
+    "data": {
+        "code": 0,
+        "message": "成功",
+        "data": {
+            "list": [
+                {
+                    "id": "7040a318-3e88-4bef-b6d3-b47505cf0d29",
+                    "name": "对方的",
+                    "consume_count": 0,
+                    "consume_wealth": 0
+                },
+                {
+                    "id": "b6d17340-6fcc-4274-a16b-7dd5b1bae7c8",
+                    "name": "贝多芬",
+                    "consume_count": 0,
+                    "consume_wealth": 0
+                },
+                {
+                    "id": "6ee7a741-7639-4dbb-8470-2f76f3873e68",
+                    "name": "帮你解",
+                    "consume_count": 0,
+                    "consume_wealth": 0
+                },
+                {
+                    "id": "7efbbe02-a41d-4c6d-b716-ed4322baed09",
+                    "name": "啊大哥",
+                    "consume_count": 0,
+                    "consume_wealth": 0
+                },
+                {
+                    "id": "a4d0d3d4-5ce7-441a-904e-508beac807b0",
+                    "name": "客家话",
+                    "consume_count": 0,
+                    "consume_wealth": 0
+                },
+                {
+                    "id": "58e8f609-18b0-490f-8e36-7c0511b91c78",
+                    "name": "安措费",
+                    "consume_count": 0,
+                    "consume_wealth": 0
+                }
+            ]
+        },
+        "success": 1
+    }
+}

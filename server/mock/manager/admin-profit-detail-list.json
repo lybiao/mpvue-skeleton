@@ -1,0 +1,33 @@
+{
+    "method": "post",
+    "url": "/api/admin/profit/detail-list",
+    "data": {
+        "code": 0,
+        "message": "成功",
+        "data": {
+            "list": [
+                {
+                    "date": "2019-12-12",
+                    "wealth": 10000
+                },
+                {
+                    "date": "2019-12-11",
+                    "wealth": 10000
+                },
+                {
+                    "date": "2019-12-10",
+                    "wealth": 60000
+                },
+                {
+                    "date": "2019-11-29",
+                    "wealth": 5000
+                },
+                {
+                    "date": "2019-11-28",
+                    "wealth": 176004
+                }
+            ]
+        },
+        "success": 1
+    }
+}

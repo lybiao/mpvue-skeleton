@@ -1,0 +1,23 @@
+{
+    "method": "post",
+    "url": "/api/admin/mycus-detail",
+    "data": {
+        "code": 0,
+        "message": "成功",
+        "data": {
+            "info": {
+                "name": "小甜甜",
+                "img_face": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1576260024978&di=b51945afe44be53f4122b312ddc7b681&imgtype=0&src=http%3A%2F%2Fcrawl.nosdn.127.net%2F576c3d8ab4ee1786c145ae5d67280825.jpg",
+                "phone": "13531522326",
+                "roleenum": "经理",
+                "create_time": 1574837915087,
+                "change_time": 1576048973609,
+                "refname": "小甜甜网红",
+                "refrole": 2,
+                "last_consume_time": null,
+                "card_no": "326"
+            }
+        },
+        "success": 1
+    }
+}

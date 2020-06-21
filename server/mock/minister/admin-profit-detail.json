@@ -1,0 +1,29 @@
+{
+    "method": "post",
+    "url": "/api/admin/profit/detail",
+    "data": {
+        "code": 0,
+        "message": "成功",
+        "data": {
+            "info": {
+                "phone": "13531522329",
+                "roleenum": "总监",
+                "name": "黄戚",
+                "img_face": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1576260171303&di=db2753273be34c259eaa90b5b49cd258&imgtype=0&src=http%3A%2F%2F5b0988e595225.cdn.sohucs.com%2Fq_70%2Cc_zoom%2Cw_640%2Fimages%2F20180926%2F258e09793fac44acb8daf87dc9d27e74.jpeg",
+                "id": "9dfe59f9-2698-48fc-baf6-84162a31d194",
+                "ref_name": "浮动空",
+                "ref_user_id": "d4c9667e-2df8-4743-961b-58ad4377e44f",
+                "total": 0,
+                "today": 0,
+                "yesterday": 0,
+                "totalreward": 0,
+                "todayreward": 0,
+                "yesterdayreward": 0,
+                "state": 0,
+                "cus_count": 0,
+                "team_count": 0
+            }
+        },
+        "success": 1
+    }
+}

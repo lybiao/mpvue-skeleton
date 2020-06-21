@@ -1,0 +1,12 @@
+{
+    "method": "post",
+    "url": "/api/qrcode/create",
+    "data": {
+        "code": 0,
+        "message": "成功",
+        "data": {
+            "url": "http://localhost/qrcode?qrcode_id=45469ca6cf4b4b8d90f6169e935dc089"
+        },
+        "success": 1
+    }
+}

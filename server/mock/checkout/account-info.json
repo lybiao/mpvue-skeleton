@@ -1,0 +1,23 @@
+{
+    "method": "post",
+    "url": "/api/account/info",
+    "data": {
+        "code": 0,
+        "message": "成功",
+        "data": {
+            "info": {
+                "img_face": "http://localhost:3008/imgface.svg",
+                "phone": "15700000017",
+                "roleenum": "普通客户",
+                "name": "松明一都",
+                "card_no": "0017",
+                "change_time": 1575973920178,
+                "consume_count": 0,
+                "consume_wealth": 0,
+                "wealth": 10000,
+                "stateenum": "正常"
+            }
+        },
+        "success": 1
+    }
+}

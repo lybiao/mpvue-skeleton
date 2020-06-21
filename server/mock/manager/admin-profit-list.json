@@ -1,0 +1,56 @@
+{
+    "method": "post",
+    "url": "/api/admin/profit/list",
+    "data": {
+        "code": 0,
+        "message": "成功",
+        "data": {
+            "user": {
+                "id": null,
+                "name": "放大",
+                "img_face": "http://localhost:3008/imgface.svg",
+                "role_id": null
+            },
+            "total": 27,
+            "list": [
+                {
+                    "name": "9527",
+                    "id": "8db6cff3-334a-470e-b175-8e3170e5ca80",
+                    "state": 0,
+                    "img_face": "http://localhost:3008/imgface.svg",
+                    "total": 0,
+                    "today": 0,
+                    "yesterday": 0
+                },
+                {
+                    "name": "得很好",
+                    "id": "f07fd59e-4818-4c22-a728-173918ae078c",
+                    "state": 0,
+                    "img_face": "http://localhost:3008/imgface.svg",
+                    "total": 0,
+                    "today": 0,
+                    "yesterday": 0
+                },
+                {
+                    "name": "是根据",
+                    "id": "f5dcaa8e-e198-4951-b5e4-cfe91868df85",
+                    "state": 0,
+                    "img_face": "http://localhost:3008/imgface.svg",
+                    "total": 0,
+                    "today": 0,
+                    "yesterday": 0
+                },
+                {
+                    "name": "法国韩",
+                    "id": "007bf65c-8abc-408f-8fc8-d52203298433",
+                    "state": 0,
+                    "img_face": "http://localhost:3008/imgface.svg",
+                    "total": 0,
+                    "today": 0,
+                    "yesterday": 0
+                }
+            ]
+        },
+        "success": 1
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "method": "post",
+    "url": "/api/minister/login",
+    "data": {
+        "code": 0,
+        "message": "成功",
+        "data": {
+            "user": {
+                "id": "d4c9667e-2df8-4743-961b-58ad4377e44f",
+                "img_face": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1576260171303&di=db2753273be34c259eaa90b5b49cd258&imgtype=0&src=http%3A%2F%2F5b0988e595225.cdn.sohucs.com%2Fq_70%2Cc_zoom%2Cw_640%2Fimages%2F20180926%2F258e09793fac44acb8daf87dc9d27e74.jpeg",
+                "name": "浮动空",
+                "phone": "18000000003",
+                "roleenum": "部长",
+                "stateenum": "正常",
+                "qrcode": null,
+                "card_no": "309",
+                "create_time": 1574836162675
+            },
+            "token": "02365106523f4169818d423dab685347d49a3e4b851ecb42c6fd1ef75ce72adc"
+        },
+        "success": 1
+    }
+}

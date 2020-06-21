@@ -1,0 +1,50 @@
+{
+    "method": "post",
+    "url": "/api/account/logs-am",
+    "data": {
+        "code": 0,
+        "message": "成功",
+        "data": {
+            "info": [
+                {
+                    "remark": "充值",
+                    "offset_wealth": 10000,
+                    "wealth": 71389.43,
+                    "create_time": 1575527824732
+                },
+                {
+                    "remark": "消费",
+                    "offset_wealth": -1000,
+                    "wealth": 61389.43,
+                    "create_time": 1574920511417
+                },
+                {
+                    "remark": "充值",
+                    "offset_wealth": 20000,
+                    "wealth": 60389.43,
+                    "create_time": 1574911915086
+                },
+                {
+                    "remark": "消费",
+                    "offset_wealth": -5000,
+                    "wealth": 40389.43,
+                    "create_time": 1574911804738
+                },
+
+                {
+                    "remark": "消费",
+                    "offset_wealth": -200,
+                    "wealth": 18389.43,
+                    "create_time": 1574865028860
+                },
+                {
+                    "remark": "充值",
+                    "offset_wealth": 500,
+                    "wealth": 18589.43,
+                    "create_time": 1574849593972
+                }
+            ]
+        },
+        "success": 1
+    }
+}

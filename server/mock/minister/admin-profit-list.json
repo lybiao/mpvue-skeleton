@@ -1,0 +1,56 @@
+{
+    "method": "post",
+    "url": "/api/admin/profit/list",
+    "data": {
+        "code": 0,
+        "message": "成功",
+        "data": {
+            "user": {
+                "id": "d4c9667e-2df8-4743-961b-58ad4377e44f",
+                "name": "浮动空",
+                "img_face": "https://images.gmall88.com/8797c1e2-7594-5545-b6c2-7e6f78004b8d_1280x640.png",
+                "role_id": 2
+            },
+            "total": 37,
+            "list": [
+                {
+                    "name": "反对法",
+                    "id": "33f5ee88-ebc6-4ebb-aa0f-e0c0bbbe68a7",
+                    "state": 0,
+                    "img_face": "http://localhost:3008/imgface.svg",
+                    "total": 0,
+                    "today": 0,
+                    "yesterday": 0
+                },
+                {
+                    "name": "课件课",
+                    "id": "c56898f9-27b5-4e51-833b-d061e53b94d4",
+                    "state": 0,
+                    "img_face": "http://localhost:3008/imgface.svg",
+                    "total": 0,
+                    "today": 0,
+                    "yesterday": 0
+                },
+                {
+                    "name": "全微分",
+                    "id": "b70cdf35-0fea-4133-954b-b441e8eb2f01",
+                    "state": 0,
+                    "img_face": "http://localhost:3008/imgface.svg",
+                    "total": 0,
+                    "today": 0,
+                    "yesterday": 0
+                },
+                {
+                    "name": "以后是",
+                    "id": "db69470d-3c63-496a-b5e4-9eff75e766c4",
+                    "state": 0,
+                    "img_face": "http://localhost:3008/imgface.svg",
+                    "total": 0,
+                    "today": 0,
+                    "yesterday": 0
+                }
+            ]
+        },
+        "success": 1
+    }
+}

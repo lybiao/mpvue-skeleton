@@ -1,0 +1,92 @@
+{
+    "pages": [
+        "pages/login/login",
+        "pages/tools/cropper",
+        "pages/invitation/qrcode"
+    ],
+    "subpackages": [
+        {
+            "root": "pages/reception/",
+            "name": "reception",
+            "pages": [
+                "activation",
+                "deposit",
+                "reception"
+            ]
+        },
+        {
+            "root": "pages/checkout/",
+            "name": "checkout",
+            "pages": [
+                "bill-detail",
+                "consume",
+                "counter",
+                "phone",
+                "income",
+                "member-detail",
+                "success"
+            ]
+        },
+        {
+            "root": "pages/manager/",
+            "name": "manager",
+            "pages": [
+                "customer",
+                "customer-list",
+                "manager",
+                "member-detail",
+                "member-list",
+                "number",
+                "operate",
+                "operate-detail",
+                "phone",
+                "verify"
+            ]
+        },
+        {
+            "root": "pages/user/",
+            "name": "user",
+            "pages": [
+                "exit",
+                "imgface",
+                "role"
+            ]
+        },
+        {
+            "root": "pages/customer/",
+            "name": "customer",
+            "pages": [
+                "customer",
+                "detail",
+                "earnings",
+                "manage",
+                "performance"
+            ]
+        },
+        {
+            "root": "pages/team/",
+            "name": "team",
+            "pages": [
+                "choose",
+                "member-add",
+                "member-add-success",
+                "member-detail",
+                "member-list",
+                "setting"
+            ]
+        }
+    ],
+    "window": {
+        "backgroundTextStyle": "light",
+        "navigationBarBackgroundColor": "#141922",
+        "navigationBarTextStyle": "white",
+        "navigationStyle": "custom"
+    },
+    "sitemapLocation": "sitemap.json",
+    "networkTimeout": {
+        "request": 6000,
+        "connectSocket": 6000,
+        "uploadFile": 6000,
+        "downloadFile": 6000
+    }
+}

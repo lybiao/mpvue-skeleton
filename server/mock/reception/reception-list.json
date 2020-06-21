@@ -1,0 +1,41 @@
+{
+    "method": "post",
+    "url": "/api/reception/list",
+    "data": {
+        "code": 0,
+        "message": "成功",
+        "data": {
+            "list": [
+                {
+                    "id": "e5544758-68de-4c2c-a21a-9a02104a80ba",
+                    "name": "途径你",
+                    "first_payin": 5000,
+                    "time": 1576048973609,
+                    "reg_time": 1574837915087
+                },
+                {
+                    "id": "9edf4e08-0df4-437c-a948-44ef4a4f8ba0",
+                    "name": "松一都",
+                    "first_payin": 5000,
+                    "time": 1575973450713,
+                    "reg_time": 1574925321773
+                },
+                {
+                    "id": "dff88956-ce3b-42e8-a53b-68d9dc40c55b",
+                    "name": "俺不会",
+                    "first_payin": 10000,
+                    "time": 1575973430503,
+                    "reg_time": 1574934944772
+                },
+                {
+                    "id": "4a59d440-7616-413e-bc32-4b0d49fb57a4",
+                    "name": "苟富是",
+                    "first_payin": 5000,
+                    "time": 1575972446543,
+                    "reg_time": 1574925321740
+                }
+            ]
+        },
+        "success": 1
+    }
+}

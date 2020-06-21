@@ -1,0 +1,10 @@
+{
+    "method": "post",
+    "url": "usercenter/myinfo",
+    "data": {
+        "code": 1001005,
+        "data": {},
+        "message": "未登录",
+        "success": 0
+    }
+}

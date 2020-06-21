@@ -1,0 +1,22 @@
+{
+    "method": "post",
+    "url": "/api/checkstand/stat",
+    "data": {
+        "code": 0,
+        "message": "成功",
+        "data": {
+            "stat": {
+                "total_pay": 1137610.57,
+                "today_pay": 0,
+                "yesterday_pay": 45500,
+                "total_payin": 51642043,
+                "today_payin": 5000,
+                "yesterday_payin": 70000,
+                "total_user": 128,
+                "today_user": 1,
+                "yesterday_user": 2
+            }
+        },
+        "success": 1
+    }
+}

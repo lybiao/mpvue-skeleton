@@ -1,0 +1,23 @@
+{
+    "method": "post",
+    "url": "/api/checkout/login",
+    "data": {
+        "code": 0,
+        "message": "成功",
+        "data": {
+            "user": {
+                "id": "be88f2f5-73f7-4157-a203-33bae4495ee9",
+                "img_face": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1576260849343&di=5f1bd8b7c04865e2b5cc487071d83bea&imgtype=0&src=http%3A%2F%2Fn.sinaimg.cn%2Ffront%2F363%2Fw477h686%2F20190410%2Ffenu-hvntnkq3055973.jpg",
+                "name": "收银台",
+                "phone": "18000000001",
+                "roleenum": "收银台",
+                "stateenum": "正常",
+                "qrcode": null,
+                "card_no": null,
+                "create_time": 1573237455127
+            },
+            "token": "255a86dd2c65811d6d7730768fa55bc528d18b408e74ff0382a7f056ec3157b5"
+        },
+        "success": 1
+    }
+}

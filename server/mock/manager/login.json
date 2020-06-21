@@ -1,0 +1,23 @@
+{
+    "method": "post",
+    "url": "/api/manager/login",
+    "data": {
+        "code": 0,
+        "message": "成功",
+        "data": {
+            "user": {
+                "id": "5950a20b-0f4b-4e2b-a417-6f8db9477f39",
+                "img_face": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1576260600693&di=f4ed9564a7d729e63a670ed68f271e9b&imgtype=0&src=http%3A%2F%2Fwww.tanmizhi.com%2Fimg%2Fallimg%2F08%2F15-1PS01A204.png",
+                "name": "卢卡库",
+                "phone": "18000000002",
+                "roleenum": "管理员",
+                "stateenum": "正常",
+                "qrcode": null,
+                "card_no": "309",
+                "create_time": 1573237455127
+            },
+            "token": "aa4f99a0e73fd50cd2d12326e58967b20ce27d915cd5701b0718b0c0ac68eb65"
+        },
+        "success": 1
+    }
+}

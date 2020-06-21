@@ -1,0 +1,11 @@
+# webpack 配置文件
+build
+config
+
+
+# 打包文件
+dist
+
+
+# node 依赖
+node_modules

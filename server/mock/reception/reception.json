@@ -1,0 +1,16 @@
+{
+    "method": "post",
+    "url": "/api/reception",
+    "data": {
+        "code": 0,
+        "message": "成功",
+        "data": {
+            "info": {
+                "today": 0,
+                "yesterday": 2,
+                "week": 20
+            }
+        },
+        "success": 1
+    }
+}

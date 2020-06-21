@@ -1,0 +1,12 @@
+{
+    "method": "post",
+    "url": "/api/admin/profit/detail-list",
+    "data": {
+        "code": 0,
+        "message": "成功",
+        "data": {
+            "list": []
+        },
+        "success": 1
+    }
+}

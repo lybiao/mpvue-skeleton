@@ -1,0 +1,12 @@
+{
+    "method": "post",
+    "url": "/api/admin/add",
+    "data": {
+        "code": 0,
+        "message": "成功",
+        "data": {
+            "id": null
+        },
+        "success": 1
+    }
+}

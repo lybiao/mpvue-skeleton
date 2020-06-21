@@ -1,0 +1,23 @@
+{
+    "method": "post",
+    "url": "/api/admin/mycus-detail",
+    "data": {
+        "code": 0,
+        "message": "成功",
+        "data": {
+            "info": {
+                "name": "德国法",
+                "img_face": "http://localhost:3008/imgface.svg",
+                "phone": "17322056025",
+                "roleenum": "普通客户",
+                "create_time": 1575968295813,
+                "change_time": 1575968472405,
+                "refname": "苟富贵",
+                "refrole": 2,
+                "last_consume_time": null,
+                "card_no": "025"
+            }
+        },
+        "success": 1
+    }
+}

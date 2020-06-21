@@ -1,0 +1,14 @@
+{
+    "method": "post",
+    "url": "/api/admin/manage/freeze-list",
+    "data": {
+        "code": 0,
+        "message": "成功",
+        "data": {
+            "customcount": 0,
+            "list": [],
+            "staffcount": 0
+        },
+        "success": 1
+    }
+}

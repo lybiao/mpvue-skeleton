@@ -1,0 +1,13 @@
+{
+    "method": "post",
+    "url": "/api/admin/mycus-stat",
+    "data": {
+        "code": 0,
+        "message": "成功",
+        "data": {
+            "nonactive_cus": 1,
+            "active_cus": 36
+        },
+        "success": 1
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "method": "post",
+    "url": "/api/admin/profit/day-detail",
+    "data": {
+        "code": 0,
+        "message": "成功",
+        "data": {
+            "detail": [
+                {
+                    "id": "621519a1-f9af-4754-94f2-37de9863295a",
+                    "name": "发的都",
+                    "total": 5000
+                },
+                {
+                    "id": "ab53ff33-ba6f-444b-803c-01b9212555a5",
+                    "name": "阿斯弗",
+                    "total": 5000
+                }
+            ]
+        },
+        "success": 1
+    }
+}

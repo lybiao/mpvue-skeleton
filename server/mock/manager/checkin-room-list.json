@@ -1,0 +1,310 @@
+{
+    "method": "post",
+    "url": "/api/checkin/room-list",
+    "data": {
+        "code": 0,
+        "message": "成功",
+        "data": {
+            "list": [
+                {
+                    "id": 1,
+                    "name": "TOP1",
+                    "type": 0,
+                    "count": "20-30",
+                    "order_id": null,
+                    "user_id": null,
+                    "user_name": null,
+                    "img_face": "http://localhost:3008/imgface.svg",
+                    "role": null
+                },
+                {
+                    "id": 2,
+                    "name": "TOP2",
+                    "type": 0,
+                    "count": "15-20",
+                    "order_id": "8654df6e-d39f-45f3-91af-e4c9f293ed12",
+                    "user_id": "a254081a-cc72-4c07-883c-e0e9dedc16c4",
+                    "user_name": "15600000012",
+                    "img_face": "http://localhost:3008/imgface.svg",
+                    "role": 2
+                },
+                {
+                    "id": 3,
+                    "name": "饭空间01",
+                    "type": 0,
+                    "count": "10-15",
+                    "order_id": null,
+                    "user_id": null,
+                    "user_name": null,
+                    "img_face": "http://localhost:3008/imgface.svg",
+                    "role": null
+                },
+                {
+                    "id": 4,
+                    "name": "饭空间02",
+                    "type": 0,
+                    "count": "10-15",
+                    "order_id": null,
+                    "user_id": null,
+                    "user_name": null,
+                    "img_face": "http://localhost:3008/imgface.svg",
+                    "role": null
+                },
+                {
+                    "id": 5,
+                    "name": "饭空间03",
+                    "type": 0,
+                    "count": "10-15",
+                    "order_id": null,
+                    "user_id": null,
+                    "user_name": null,
+                    "img_face": "http://localhost:3008/imgface.svg",
+                    "role": null
+                },
+                {
+                    "id": 6,
+                    "name": "饭空间05",
+                    "type": 0,
+                    "count": "10-15",
+                    "order_id": null,
+                    "user_id": null,
+                    "user_name": null,
+                    "img_face": "http://localhost:3008/imgface.svg",
+                    "role": null
+                },
+                {
+                    "id": 7,
+                    "name": "饭空间06",
+                    "type": 0,
+                    "count": "8-10",
+                    "order_id": null,
+                    "user_id": null,
+                    "user_name": null,
+                    "img_face": "http://localhost:3008/imgface.svg",
+                    "role": null
+                },
+                {
+                    "id": 8,
+                    "name": "饭空间08",
+                    "type": 0,
+                    "count": "8-10",
+                    "order_id": null,
+                    "user_id": null,
+                    "user_name": null,
+                    "img_face": "http://localhost:3008/imgface.svg",
+                    "role": null
+                },
+                {
+                    "id": 9,
+                    "name": "1号卡座",
+                    "type": 1,
+                    "count": null,
+                    "order_id": null,
+                    "user_id": null,
+                    "user_name": null,
+                    "img_face": "http://localhost:3008/imgface.svg",
+                    "role": null
+                },
+                {
+                    "id": 10,
+                    "name": "2号卡座",
+                    "type": 1,
+                    "count": null,
+                    "order_id": null,
+                    "user_id": null,
+                    "user_name": null,
+                    "img_face": "http://localhost:3008/imgface.svg",
+                    "role": null
+                },
+                {
+                    "id": 11,
+                    "name": "3号卡座",
+                    "type": 1,
+                    "count": null,
+                    "order_id": null,
+                    "user_id": null,
+                    "user_name": null,
+                    "img_face": "http://localhost:3008/imgface.svg",
+                    "role": null
+                },
+                {
+                    "id": 12,
+                    "name": "5号卡座",
+                    "type": 1,
+                    "count": null,
+                    "order_id": null,
+                    "user_id": null,
+                    "user_name": null,
+                    "img_face": "http://localhost:3008/imgface.svg",
+                    "role": null
+                },
+                {
+                    "id": 13,
+                    "name": "6号卡座",
+                    "type": 1,
+                    "count": null,
+                    "order_id": null,
+                    "user_id": null,
+                    "user_name": null,
+                    "img_face": "http://localhost:3008/imgface.svg",
+                    "role": null
+                },
+                {
+                    "id": 14,
+                    "name": "8号卡座",
+                    "type": 1,
+                    "count": null,
+                    "order_id": null,
+                    "user_id": null,
+                    "user_name": null,
+                    "img_face": "http://localhost:3008/imgface.svg",
+                    "role": null
+                },
+                {
+                    "id": 15,
+                    "name": "9号卡座",
+                    "type": 1,
+                    "count": null,
+                    "order_id": null,
+                    "user_id": null,
+                    "user_name": null,
+                    "img_face": "http://localhost:3008/imgface.svg",
+                    "role": null
+                },
+                {
+                    "id": 16,
+                    "name": "10号卡座",
+                    "type": 1,
+                    "count": null,
+                    "order_id": null,
+                    "user_id": null,
+                    "user_name": null,
+                    "img_face": "http://localhost:3008/imgface.svg",
+                    "role": null
+                },
+                {
+                    "id": 17,
+                    "name": "11号卡座",
+                    "type": 1,
+                    "count": null,
+                    "order_id": null,
+                    "user_id": null,
+                    "user_name": null,
+                    "img_face": "http://localhost:3008/imgface.svg",
+                    "role": null
+                },
+                {
+                    "id": 18,
+                    "name": "12号卡座",
+                    "type": 1,
+                    "count": null,
+                    "order_id": null,
+                    "user_id": null,
+                    "user_name": null,
+                    "img_face": "http://localhost:3008/imgface.svg",
+                    "role": null
+                },
+                {
+                    "id": 19,
+                    "name": "13号卡座",
+                    "type": 1,
+                    "count": null,
+                    "order_id": null,
+                    "user_id": null,
+                    "user_name": null,
+                    "img_face": "http://localhost:3008/imgface.svg",
+                    "role": null
+                },
+                {
+                    "id": 20,
+                    "name": "15号卡座",
+                    "type": 1,
+                    "count": null,
+                    "order_id": null,
+                    "user_id": null,
+                    "user_name": null,
+                    "img_face": "http://localhost:3008/imgface.svg",
+                    "role": null
+                },
+                {
+                    "id": 21,
+                    "name": "16号卡座",
+                    "type": 1,
+                    "count": null,
+                    "order_id": null,
+                    "user_id": null,
+                    "user_name": null,
+                    "img_face": "http://localhost:3008/imgface.svg",
+                    "role": null
+                },
+                {
+                    "id": 22,
+                    "name": "18号卡座",
+                    "type": 1,
+                    "count": null,
+                    "order_id": null,
+                    "user_id": null,
+                    "user_name": null,
+                    "img_face": "http://localhost:3008/imgface.svg",
+                    "role": null
+                },
+                {
+                    "id": 23,
+                    "name": "19号卡座",
+                    "type": 1,
+                    "count": null,
+                    "order_id": null,
+                    "user_id": null,
+                    "user_name": null,
+                    "img_face": "http://localhost:3008/imgface.svg",
+                    "role": null
+                },
+                {
+                    "id": 24,
+                    "name": "20号卡座",
+                    "type": 1,
+                    "count": null,
+                    "order_id": null,
+                    "user_id": null,
+                    "user_name": null,
+                    "img_face": "http://localhost:3008/imgface.svg",
+                    "role": null
+                },
+                {
+                    "id": 25,
+                    "name": "21号卡座",
+                    "type": 1,
+                    "count": null,
+                    "order_id": null,
+                    "user_id": null,
+                    "user_name": null,
+                    "img_face": "http://localhost:3008/imgface.svg",
+                    "role": null
+                },
+                {
+                    "id": 26,
+                    "name": "22号卡座",
+                    "type": 1,
+                    "count": null,
+                    "order_id": "a09712cb-0189-48d4-8e71-5a8b0f5aa1ea",
+                    "user_id": "b2d56ff6-bc7e-4091-ba6b-17baf597fc6d",
+                    "user_name": "反对的",
+                    "img_face": "http://localhost:3008/imgface.svg",
+                    "role": 0
+                },
+                {
+                    "id": 27,
+                    "name": "23号卡座",
+                    "type": 1,
+                    "count": null,
+                    "order_id": null,
+                    "user_id": null,
+                    "user_name": null,
+                    "img_face": "http://localhost:3008/imgface.svg",
+                    "role": null
+                }
+            ]
+        },
+        "success": 1
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "method": "post",
+    "url": "/api/account/info-id",
+    "data": {
+        "code": 0,
+        "message": "成功",
+        "data": {
+            "info": {
+                "img_face": "http://localhost:3008/imgface.svg",
+                "phone": "15896325874",
+                "roleenum": "普通客户",
+                "name": "李冬梅",
+                "change_time": 1574696370711,
+                "consume_count": 14,
+                "consume_wealth": 30110.57,
+                "wealth": 66389.43,
+                "last_consume_time": 1575527844876
+            }
+        },
+        "success": 1
+    }
+}

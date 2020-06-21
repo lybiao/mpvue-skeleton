@@ -1,0 +1,37 @@
+{
+    "method": "post",
+    "url": "/api/account/search",
+    "data": {
+        "code": 0,
+        "message": "成功",
+        "data": {
+            "info": [
+                {
+                    "name": "爱康科的",
+                    "id": "e5544758-68de-4c2c-a21a-9a02104a80ba"
+                },
+                {
+                    "name": "黄忠",
+                    "id": "178d6018-8c64-451f-bc6e-a441844d4b0d"
+                },
+                {
+                    "name": "黄戚",
+                    "id": "9dfe59f9-2698-48fc-baf6-84162a31d194"
+                },
+                {
+                    "name": "9565",
+                    "id": "6091ce17-3c34-43b3-94ed-c6beceddeb86"
+                },
+                {
+                    "name": "林辅导",
+                    "id": "bde89cfb-5fd6-4117-bf84-09222de76539"
+                },
+                {
+                    "name": "周小杰",
+                    "id": "2ef0265a-3bc7-4bfd-a16e-ecc09a35e6fc"
+                }
+            ]
+        },
+        "success": 1
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "method": "post",
+    "url": "/api/account/offset",
+    "data": {
+        "code": 99,
+        "message": "卡号已被用户使用",
+        "data": {},
+        "success": 0
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "method": "post",
+    "url": "/api/admin/profit/detail",
+    "data": {
+        "code": 0,
+        "message": "成功",
+        "data": {
+            "info": {
+                "phone": "15986483688",
+                "roleenum": "部长",
+                "name": "阿姆斯特朗",
+                "img_face": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1576260600693&di=f4ed9564a7d729e63a670ed68f271e9b&imgtype=0&src=http%3A%2F%2Fwww.tanmizhi.com%2Fimg%2Fallimg%2F08%2F15-1PS01A204.png",
+                "id": "6c0e77f3-461c-4892-80b1-c75d480e25b0",
+                "ref_name": null,
+                "ref_user_id": null,
+                "total": 261004,
+                "today": 10000,
+                "yesterday": 10000,
+                "totalreward": 57420.88,
+                "todayreward": 2200,
+                "yesterdayreward": 2200,
+                "state": 0,
+                "cus_count": 60,
+                "team_count": 0
+            }
+        },
+        "success": 1
+    }
+}

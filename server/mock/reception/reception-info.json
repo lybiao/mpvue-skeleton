@@ -1,0 +1,21 @@
+{
+    "method": "post",
+    "url": "/api/reception/info",
+    "data": {
+        "code": 0,
+        "message": "成功",
+        "data": {
+            "info": {
+                "id": "621519a1-f9af-4754-94f2-37de9863295a",
+                "phone": "15700000017",
+                "name": "松明一都",
+                "card_no": "0017",
+                "create_time": 1574925321842,
+                "refname": "阿姆斯特朗",
+                "refrole": 2,
+                "change_time": 1575973920178
+            }
+        },
+        "success": 1
+    }
+}

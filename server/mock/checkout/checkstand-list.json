@@ -1,0 +1,13 @@
+{
+    "method": "post",
+    "url": "/api/checkstand/list",
+    "data": {
+        "code": 0,
+        "message": "成功",
+        "data": {
+            "list": [],
+            "amount": 1137610.57
+        },
+        "success": 1
+    }
+}

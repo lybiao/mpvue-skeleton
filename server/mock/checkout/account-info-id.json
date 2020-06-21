@@ -1,0 +1,22 @@
+{
+    "method": "post",
+    "url": "/api/account/info-id",
+    "data": {
+        "code": 0,
+        "message": "成功",
+        "data": {
+            "info": {
+                "img_face": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1356390608,268319695&fm=26&gp=0.jpg",
+                "phone": "13531522326",
+                "roleenum": "经理",
+                "name": "爱康科的",
+                "change_time": 1576048973609,
+                "consume_count": 0,
+                "consume_wealth": 0,
+                "wealth": 5000,
+                "last_consume_time": null
+            }
+        },
+        "success": 1
+    }
+}

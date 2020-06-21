@@ -1,0 +1,23 @@
+{
+    "method": "post",
+    "url": "/api/reception/login",
+    "data": {
+        "code": 0,
+        "message": "成功",
+        "data": {
+            "user": {
+                "id": "d4b3a96a-0aa5-496f-965e-943ab8507d38",
+                "img_face": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1576260024978&di=b51945afe44be53f4122b312ddc7b681&imgtype=0&src=http%3A%2F%2Fcrawl.nosdn.127.net%2F576c3d8ab4ee1786c145ae5d67280825.jpg",
+                "name": "前台",
+                "phone": "18000000004",
+                "roleenum": "前台",
+                "stateenum": "正常",
+                "qrcode": null,
+                "card_no": null,
+                "create_time": 1573237455127
+            },
+            "token": "6b4e77c52aee85526ff042b128008e35c5abb2422b186e017a612e03ab2bf870"
+        },
+        "success": 1
+    }
+}

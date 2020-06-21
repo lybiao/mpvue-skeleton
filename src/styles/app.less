@@ -1,0 +1,127 @@
+/**
+ *************************************************************
+ * @Author: LIANG YAN BIAO
+ * @Date:   on 2020/05/25
+ * @Last Modified by:   LIANG YAN BIAO
+ * @Last Modified time: on
+ *************************************************************
+ */
+
+page {
+    background-color: #141922;
+    font-family: "SF Pro SC", "SF Pro Display", "SF Pro Icons", "PingFang SC", "Helvetica Neue", "Helvetica", "Arial", sans-serifsans-serif;
+    height: 100%;
+}
+
+::-webkit-scrollbar {
+    width: 0;
+    height: 0;
+    color: transparent;
+}
+
+.noinfor {
+    text-align: center;
+    padding: 80rpx 0;
+    font-size: 26rpx;
+    color: #888;
+    clear: both;
+}
+
+.scroll-view {
+    height: 100%;
+    position: relative;
+}
+
+image {
+    width: 100%;
+    height: 100%;
+}
+
+textarea {
+    resize: none;
+}
+
+.hover-class {
+    opacity: 0.6;
+}
+
+.hover-img {
+    opacity: 0.2;
+}
+
+.hover-action {
+    background-color: rgba(37, 43, 54, 0.6);
+}
+
+.shade {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 9999;
+
+    &.layer {
+        z-index: 999;
+    }
+}
+
+.imgsd {
+    position: relative;
+    overflow: hidden;
+
+    &:after {
+        content: '';
+        position: absolute;
+        left: 0;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        background-color: rgba(0, 0, 0, 0.03);
+    }
+}
+
+.bgauto {
+    background-size: cover;
+    background-position: center;
+}
+
+.button {
+    position: relative;
+    white-space: nowrap;
+    background: #fff;
+    border: 1rpx solid #ddd;
+    color: #000;
+    text-align: center;
+    border-radius: 6rpx;
+    font-size: 26rpx;
+    padding: 0 20rpx;
+    height: 90rpx;
+    line-height: 90rpx;
+    display: block;
+
+    &.small {
+        width: auto;
+        height: 44rpx;
+        line-height: 44rpx;
+        font-size: 21rpx;
+        padding: 0 15rpx;
+    }
+
+    &.gray {
+        background-color: #aaa;
+        border: none;
+    }
+
+    &.green {
+        background-color: #3c9;
+        border: none;
+    }
+
+    &.silver {
+        background-color: #424d5c;
+        border-color: #424d5c;
+    }
+
+}

@@ -1,0 +1,18 @@
+{
+    "method": "post",
+    "url": "/api/admin/home",
+    "data": {
+        "code": 0,
+        "message": "成功",
+        "data": {
+            "info": {
+                "bz_zount": 27,
+                "zz_count": 46,
+                "jl_count": 8,
+                "kh_count": 128
+            },
+            "tips": 5
+        },
+        "success": 1
+    }
+}

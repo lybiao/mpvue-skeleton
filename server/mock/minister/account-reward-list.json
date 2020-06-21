@@ -1,0 +1,31 @@
+{
+    "method": "post",
+    "url": "/api/account/reward-list",
+    "data": {
+        "code": 0,
+        "message": "成功",
+        "data": {
+            "list": [
+                {
+                    "date": 1575993600000,
+                    "money": 4400,
+                    "performance": 20000,
+                    "ratio": 0.22
+                },
+                {
+                    "date": 1575907200000,
+                    "money": 16900,
+                    "performance": 95000,
+                    "ratio": 0.22
+                },
+                {
+                    "date": 1574870400000,
+                    "money": 11160920.62,
+                    "performance": 50886011,
+                    "ratio": 0.22
+                }
+            ]
+        },
+        "success": 1
+    }
+}
